@@ -1,8 +1,7 @@
 <!-- GitHub Profile README — github.com/MrKoadic -->
 <div align="center">
 
-# Adam Christiansen
-### better known as MrKoadic
+# Adam Christiansen / MrKoadic
 
 **Founder & Developer @ [Koadic Developments](https://koadic.dk)**
 
