@@ -2,6 +2,7 @@
 <div align="center">
 
 # Adam Christiansen
+### better known as MrKoadic
 
 **Founder & Developer @ [Koadic Developments](https://koadic.dk)**
 
