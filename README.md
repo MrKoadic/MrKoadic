@@ -1,41 +1,52 @@
-<!-- GitHub Profile README — github.com/MrKoadic -->
 <div align="center">
 
-# Adam Christiansen / MrKoadic
+# Adam Christiansen
 
-**Founder & Developer @ [Koadic Developments](https://koadic.dk)**
+**Stifter og udvikler hos [Koadic Developments](https://github.com/Koadic-Developments)**
 
-Denmark 🇩🇰 · [koadic.dk](https://koadic.dk) · [development@koadic.dk](mailto:development@koadic.dk)
+Danmark · [koadic.dk](https://koadic.dk) · [development@koadic.dk](mailto:development@koadic.dk)
 
 </div>
 
 ---
 
-### About
+### Hvad jeg laver
 
-I build tools for communities and businesses — from Discord bots to web platforms. Based in Denmark, running Koadic Developments.
+Jeg bygger og driver Koadics egne systemer — en samlet platform til drift, medarbejdere,
+kunder og support. Alt kører på egen infrastruktur: egen server, egen database og
+selvhostet AI. Vi køber standardværktøj og bygger selv det, der er vores produkt.
 
----
-
-### Tech Stack
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white)
+Til daglig betyder det fuld-stack udvikling i PHP og MySQL, en iOS-app i SwiftUI,
+og drift af den Linux-server det hele står på.
 
 ---
 
-### Projects
+### Systemer jeg står bag
 
-| Project | Description |
+| System | Hvad det gør |
 |---|---|
-| 🎫 **[Koadic Tickets](https://ticket.koadic.dk)** | Discord ticket bot for community support management |
-| 📊 **[Statusivo](https://koadic.dk)** | Multi-tenant status page platform for services & APIs |
+| **Medarbejderplatform** | Vagtplan, tidsregistrering, løn, fravær og kontrakter |
+| **Medarbejder-app** | iOS-app til stempling, vagtplan og godkendelser |
+| **Security Platform** | WAF, bot-beskyttelse og angrebsdetektion på tværs af domæner |
+| **KoaBot** | Selvhostet AI-assistent — ingen data forlader vores servere |
+| **Helpdesk og CRM** | Samlet indbakke med mail og telefon, kunder og fakturering |
+| **Workspace** | Mail, drev, chat og kalender i én app |
+
+---
+
+### Værktøjer
+
+PHP · MySQL · JavaScript · SwiftUI · Node.js · Linux · Nginx · Cloudflare
+
+---
+
+### Sådan arbejder jeg
+
+Alt går gennem pull requests med automatisk kodekontrol — ingen skriver direkte til
+`main`, og intet når produktion uden at have bestået testen først.
 
 ---
 
 <div align="center">
-<sub><a href="https://koadic.dk">koadic.dk</a></sub>
+<sub><a href="https://koadic.dk">koadic.dk</a> · Danmark</sub>
 </div>
