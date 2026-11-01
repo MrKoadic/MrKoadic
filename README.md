@@ -16,7 +16,7 @@
 
 ## About me
 
-I am **MrKoadic**, a 16-year-old developer from Denmark who enjoys building useful, polished and reliable digital products.
+I am **MrKoadic**, a young developer from Denmark who enjoys building useful, polished and reliable digital products.
 
 My main focus is web development. I work with the frontend, build PHP backends and continuously improve my understanding of databases, APIs, security and professional software architecture.
 
